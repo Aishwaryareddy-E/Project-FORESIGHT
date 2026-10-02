@@ -1,3 +1,5 @@
+https://project-foresight-u7kzcbejc8kyv4a86eapp7k.streamlit.app/
+
 # Project FORESIGHT — Demand & Inventory Intelligence
 
 A reproducible demand forecasting, inventory risk scoring, decisioning and dashboard project built for the Zidio FORESIGHT client engagement.
