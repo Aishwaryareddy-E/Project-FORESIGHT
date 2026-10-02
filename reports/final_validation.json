@@ -1,0 +1,15 @@
+{
+  "missing_files": [],
+  "analysis_rows": 5250,
+  "analysis_skus": 50,
+  "analysis_unique_sku_week": 5250,
+  "forecast_rows": 650,
+  "forecast_skus": 50,
+  "forecast_missing_demand": 0,
+  "risk_rows": 650,
+  "risk_skus": 50,
+  "risk_unique_sku_week": 650,
+  "risk_missing_actions": 0,
+  "risk_negative_coverage": 0,
+  "ready": true
+}

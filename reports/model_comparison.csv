@@ -1,0 +1,4 @@
+method,single_holdout_wape,rolling_average_wape,role
+Seasonal Naive (Baseline),11.623291,10.840223,Baseline / robust operational fallback
+Holt Exponential Smoothing,10.564259,15.18986,Classical time-series comparison
+HistGradientBoostingRegressor,8.959786143230229,10.237003911218885,Final selected model

@@ -1,0 +1,30 @@
+{
+  "rows": 650,
+  "skus": 50,
+  "forecast_weeks": 13,
+  "stockout_risk": {
+    "High": 390,
+    "Low": 220,
+    "Medium": 40
+  },
+  "overstock_risk": {
+    "Low": 570,
+    "High": 50,
+    "Medium": 30
+  },
+  "decision_quadrants": {
+    "REORDER NOW": 390,
+    "HEALTHY": 210,
+    "MARKDOWN / CLEAR": 50
+  },
+  "recommended_actions": {
+    "REORDER": 390,
+    "MONITOR": 210,
+    "MARKDOWN": 50
+  },
+  "potential_lost_sales_value": 312925985.4644432,
+  "potential_overstock_inventory_value": 38075183.01592727,
+  "estimated_reorder_value": 981517123.3402176,
+  "negative_coverage_values": 0,
+  "missing_decisions": 0
+}

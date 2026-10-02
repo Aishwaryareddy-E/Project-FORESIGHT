@@ -1,0 +1,10 @@
+{
+  "final_model": "HistGradientBoostingRegressor",
+  "baseline_rolling_wape": 10.840223,
+  "final_model_rolling_wape": 10.237003911218885,
+  "relative_wape_improvement_percent": 5.564637266051769,
+  "final_model_holdout_wape": 8.959786143230229,
+  "baseline_holdout_wape": 11.623291,
+  "selection_rule": "Rolling-origin average WAPE on the four specified 13-week folds.",
+  "honesty_note": "Holt did not beat the Seasonal Naive baseline on rolling-origin average; the feature-based ML model did and was selected for the final forecast."
+}
