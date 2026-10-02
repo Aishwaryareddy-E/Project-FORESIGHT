@@ -1,0 +1,31 @@
+{
+  "folds": [
+    {
+      "fold": 1,
+      "test_start": "2025-01-06",
+      "test_end": "2025-03-31",
+      "ml_wape": 14.730989121040755
+    },
+    {
+      "fold": 2,
+      "test_start": "2025-04-07",
+      "test_end": "2025-06-30",
+      "ml_wape": 8.12378474824795
+    },
+    {
+      "fold": 3,
+      "test_start": "2025-07-07",
+      "test_end": "2025-09-29",
+      "ml_wape": 9.133455632356604
+    },
+    {
+      "fold": 4,
+      "test_start": "2025-09-29",
+      "test_end": "2025-12-22",
+      "ml_wape": 8.959786143230229
+    }
+  ],
+  "average_ml_wape": 10.237003911218885,
+  "seasonal_naive_rolling_average_wape": 10.840223,
+  "beats_seasonal_naive": true
+}

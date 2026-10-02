@@ -1,0 +1,213 @@
+{
+  "total_units": 511810.0,
+  "total_revenue": 3096056707.2200003,
+  "top_units": [
+    {
+      "sku": "SKU012",
+      "product_name": "Product 012",
+      "units_sold": 19067
+    },
+    {
+      "sku": "SKU045",
+      "product_name": "Product 045",
+      "units_sold": 18612
+    },
+    {
+      "sku": "SKU018",
+      "product_name": "Product 018",
+      "units_sold": 18450
+    },
+    {
+      "sku": "SKU049",
+      "product_name": "Product 049",
+      "units_sold": 18373
+    },
+    {
+      "sku": "SKU037",
+      "product_name": "Product 037",
+      "units_sold": 18155
+    },
+    {
+      "sku": "SKU007",
+      "product_name": "Product 007",
+      "units_sold": 18129
+    },
+    {
+      "sku": "SKU027",
+      "product_name": "Product 027",
+      "units_sold": 17717
+    },
+    {
+      "sku": "SKU042",
+      "product_name": "Product 042",
+      "units_sold": 16616
+    },
+    {
+      "sku": "SKU026",
+      "product_name": "Product 026",
+      "units_sold": 16535
+    },
+    {
+      "sku": "SKU043",
+      "product_name": "Product 043",
+      "units_sold": 16276
+    }
+  ],
+  "top_revenue": [
+    {
+      "sku": "SKU026",
+      "product_name": "Product 026",
+      "revenue": 180885293.9
+    },
+    {
+      "sku": "SKU035",
+      "product_name": "Product 035",
+      "revenue": 169161896.78
+    },
+    {
+      "sku": "SKU012",
+      "product_name": "Product 012",
+      "revenue": 167396247.79
+    },
+    {
+      "sku": "SKU042",
+      "product_name": "Product 042",
+      "revenue": 152847759.28
+    },
+    {
+      "sku": "SKU027",
+      "product_name": "Product 027",
+      "revenue": 150888602.2
+    },
+    {
+      "sku": "SKU045",
+      "product_name": "Product 045",
+      "revenue": 142880229.36
+    },
+    {
+      "sku": "SKU043",
+      "product_name": "Product 043",
+      "revenue": 142346152.52
+    },
+    {
+      "sku": "SKU029",
+      "product_name": "Product 029",
+      "revenue": 134237448.5
+    },
+    {
+      "sku": "SKU031",
+      "product_name": "Product 031",
+      "revenue": 119591275.53
+    },
+    {
+      "sku": "SKU008",
+      "product_name": "Product 008",
+      "revenue": 117560492.16
+    }
+  ],
+  "categories": [
+    {
+      "category": "Home Decor",
+      "units_sold": 132570,
+      "revenue": 888468077.72,
+      "avg_inventory": 311.04857142857145
+    },
+    {
+      "category": "Lighting",
+      "units_sold": 102431,
+      "revenue": 458736187.15,
+      "avg_inventory": 264.6504761904762
+    },
+    {
+      "category": "Kitchen",
+      "units_sold": 101144,
+      "revenue": 563534552.46,
+      "avg_inventory": 288.1933333333333
+    },
+    {
+      "category": "Storage",
+      "units_sold": 93367,
+      "revenue": 581927421.83,
+      "avg_inventory": 369.20285714285717
+    },
+    {
+      "category": "Furniture",
+      "units_sold": 82298,
+      "revenue": 603390468.06,
+      "avg_inventory": 303.46285714285716
+    }
+  ],
+  "strict_dead_stock_count": 0,
+  "slow_movers": [
+    {
+      "sku": "SKU025",
+      "on_hand_units": 1124,
+      "inventory_value": 4384724.0,
+      "avg_weekly_demand": 15.153846153846153,
+      "coverage_weeks": 74.1725888324873
+    },
+    {
+      "sku": "SKU011",
+      "on_hand_units": 753,
+      "inventory_value": 2911918.77,
+      "avg_weekly_demand": 18.46153846153846,
+      "coverage_weeks": 40.7875
+    },
+    {
+      "sku": "SKU036",
+      "on_hand_units": 383,
+      "inventory_value": 574446.38,
+      "avg_weekly_demand": 29.307692307692307,
+      "coverage_weeks": 13.068241469816273
+    },
+    {
+      "sku": "SKU020",
+      "on_hand_units": 1002,
+      "inventory_value": 5550418.68,
+      "avg_weekly_demand": 87.15384615384616,
+      "coverage_weeks": 11.496910856134157
+    },
+    {
+      "sku": "SKU003",
+      "on_hand_units": 349,
+      "inventory_value": 2145941.67,
+      "avg_weekly_demand": 34.69230769230769,
+      "coverage_weeks": 10.059866962305986
+    },
+    {
+      "sku": "SKU006",
+      "on_hand_units": 359,
+      "inventory_value": 2378877.6,
+      "avg_weekly_demand": 38.23076923076923,
+      "coverage_weeks": 9.390342052313883
+    },
+    {
+      "sku": "SKU001",
+      "on_hand_units": 771,
+      "inventory_value": 2815160.01,
+      "avg_weekly_demand": 85.3076923076923,
+      "coverage_weeks": 9.037871956717764
+    },
+    {
+      "sku": "SKU004",
+      "on_hand_units": 259,
+      "inventory_value": 321905.92,
+      "avg_weekly_demand": 28.76923076923077,
+      "coverage_weeks": 9.002673796791443
+    },
+    {
+      "sku": "SKU050",
+      "on_hand_units": 328,
+      "inventory_value": 1138983.28,
+      "avg_weekly_demand": 37.07692307692308,
+      "coverage_weeks": 8.846473029045642
+    },
+    {
+      "sku": "SKU002",
+      "on_hand_units": 526,
+      "inventory_value": 2974319.6,
+      "avg_weekly_demand": 59.46153846153846,
+      "coverage_weeks": 8.846054333764554
+    }
+  ]
+}
