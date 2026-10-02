@@ -1,5 +1,15 @@
 https://project-foresight-u7kzcbejc8kyv4a86eapp7k.streamlit.app/
 
+#score service 
+Health
+https://project-foresight-api-l5ox.onrender.com/health
+Swagger
+https://project-foresight-api-l5ox.onrender.com/docs
+SKU scoring
+https://project-foresight-api-l5ox.onrender.com/score/SKU001
+use the base Render URL as the scoring-service URL:
+https://project-foresight-api-l5ox.onrender.com
+
 # Project FORESIGHT — Demand & Inventory Intelligence
 
 A reproducible demand forecasting, inventory risk scoring, decisioning and dashboard project built for the Zidio FORESIGHT client engagement.
